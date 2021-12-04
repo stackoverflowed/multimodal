@@ -1,0 +1,15 @@
+[2021-11-23 15:42:44,094][INFO] fonduer.meta:49 - Setting logging directory to: logs/2021-11-23_15-42-44
+[2021-11-23 15:42:44,112][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_data_model
+[2021-11-23 15:42:44,245][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 15:43:33,819][INFO] fonduer.meta:53 - Logging was already initialized to use logs/2021-11-23_15-42-44.  To configure logging manually, call fonduer.init_logging before initialiting Meta.
+[2021-11-23 15:43:33,821][INFO] fonduer.meta:135 - Connecting user:postgres to localhost:5432/intro_data_model
+[2021-11-23 15:43:33,822][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 15:48:32,484][INFO] fonduer.meta:53 - Logging was already initialized to use logs/2021-11-23_15-42-44.  To configure logging manually, call fonduer.init_logging before initialiting Meta.
+[2021-11-23 15:48:32,486][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_data_model
+[2021-11-23 15:48:32,487][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 15:50:01,658][INFO] fonduer.meta:53 - Logging was already initialized to use logs/2021-11-23_15-42-44.  To configure logging manually, call fonduer.init_logging before initialiting Meta.
+[2021-11-23 15:50:01,659][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_data_model
+[2021-11-23 15:50:01,660][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 16:00:21,286][INFO] fonduer.meta:53 - Logging was already initialized to use logs/2021-11-23_15-42-44.  To configure logging manually, call fonduer.init_logging before initialiting Meta.
+[2021-11-23 16:00:21,287][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_data_model
+[2021-11-23 16:00:21,288][INFO] fonduer.meta:162 - Initializing the storage schema

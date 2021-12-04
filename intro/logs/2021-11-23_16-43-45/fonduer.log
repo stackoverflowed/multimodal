@@ -1,0 +1,5 @@
+[2021-11-23 16:43:45,937][INFO] fonduer.meta:49 - Setting logging directory to: logs/2021-11-23_16-43-45
+[2021-11-23 16:43:45,963][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_supervision
+[2021-11-23 16:43:46,407][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 16:46:14,106][INFO] fonduer.supervision.labeler:330 - Clearing Labels (split ALL)
+[2021-11-23 16:46:14,113][INFO] fonduer.utils.udf:67 - Running UDF...

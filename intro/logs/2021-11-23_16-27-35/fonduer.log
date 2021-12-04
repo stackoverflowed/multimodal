@@ -1,0 +1,8 @@
+[2021-11-23 16:27:35,435][INFO] fonduer.meta:49 - Setting logging directory to: logs/2021-11-23_16-27-35
+[2021-11-23 16:27:35,460][INFO] fonduer.meta:135 - Connecting user:None to localhost:5432/intro_candidates
+[2021-11-23 16:27:35,906][INFO] fonduer.meta:162 - Initializing the storage schema
+[2021-11-23 16:40:54,775][INFO] fonduer.candidates.mentions:467 - Clearing table: part
+[2021-11-23 16:40:54,779][INFO] fonduer.candidates.mentions:467 - Clearing table: attr
+[2021-11-23 16:40:54,780][INFO] fonduer.utils.udf:67 - Running UDF...
+[2021-11-23 16:42:14,488][INFO] fonduer.candidates.candidates:138 - Clearing table part_attr (split 0)
+[2021-11-23 16:42:14,507][INFO] fonduer.utils.udf:67 - Running UDF...
